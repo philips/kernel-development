@@ -1,5 +1,5 @@
-This is a repo containing the presentation I give fairly often at
-different conferences and to different companies.
+This is a repo containing a presentation I modified from Greg KH for Oregon
+State University. I used Greg's slide deck and updated it for 2.6.34.
 
 Feel free to use the numbers in here in any presentations you wish to
 give, just properly attribute them please.
@@ -11,5 +11,9 @@ found in detail at:
 
 If you have any questions about the information in this presentation,
 please feel free to contact me:
+	Brandon Philips
+	brandon@ifup.org
+
+Original author:
 	Greg Kroah-Hartman
 	greg@kroah.com
